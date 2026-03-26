@@ -1,4 +1,54 @@
-## Hi there 👋
+# 👨‍💻 Lucas Ramos
+
+🎓 Estudante de Ciência da Computação na UNIP  
+💻 Focado em desenvolvimento de software  
+🚀 Em busca da primeira oportunidade na área de tecnologia  
+
+---
+
+## 🧠 Sobre mim
+
+Sou estudante de Ciência da Computação, atualmente aprendendo lógica de programação e desenvolvimento web.  
+Tenho interesse em criar soluções práticas e evoluir constantemente na área de tecnologia.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+💻 Em aprendizado:
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+- Python
+- C#
+- Lógica de Programação
+
+---
+
+## 📌 Projetos
+
+- 🌐 Site sobre Lei de Ohm  
+- ♻️ Projeto sobre descarte de produtos químicos  
+
+---
+
+## Em andamento
+
+- Infinity Gacha(Jogo na Unity inspirado no Manwha: "Pick Me Up Infinite Gacha")
+- Minijogo Top Down Shooter em Java
+
+## 📫 Contato
+
+📧 Email: lucasramos1225@hotmail.com
+💼 LinkedIn: [(https://www.linkedin.com/in/lucas-ramos-205479317?)]
+
+---
+
+## ⚡ Objetivo
+
+Conseguir minha primeira oportunidade na área de tecnologia, aplicar meus conhecimentos na prática e crescer profissionalmente como desenvolvedor.
 
 <!--
 **lukinhasoking129/lukinhasoking129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
