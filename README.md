@@ -30,7 +30,8 @@ Tenho interesse em criar soluções práticas e evoluir constantemente na área 
 ## 📌 Projetos
 
 - 🌐 Site sobre Lei de Ohm  
-- ♻️ Projeto sobre descarte de produtos químicos  
+- ♻️ Projeto sobre descarte de produtos químicos
+- 🔐 Criptografia Assimétrica Inspirada em RSA
 
 ---
 
@@ -38,6 +39,7 @@ Tenho interesse em criar soluções práticas e evoluir constantemente na área 
 
 - Infinity Gacha(Jogo na Unity)
 - Minijogo Top Down Shooter em Java
+- Jogo em HTML
 
 ## 📫 Contato
 
