@@ -5,7 +5,7 @@
 🚀 Em busca da primeira oportunidade na área de tecnologia  
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukinhasoking129)]
+[![Lukinhasoking129's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukinhasoking129)](https://github.com/lukinhasoking129/github-readme-stats)
 
 ## 🧠 Sobre mim
 
