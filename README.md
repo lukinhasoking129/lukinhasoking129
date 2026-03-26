@@ -5,7 +5,7 @@
 🚀 Em busca da primeira oportunidade na área de tecnologia  
 
 ---
-[![Lukinhasoking129's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukinhasoking129)](https://github.com/lukinhasoking129/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhasoking129&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## 🧠 Sobre mim
 
