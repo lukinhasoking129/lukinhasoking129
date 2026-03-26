@@ -34,9 +34,9 @@ Tenho interesse em criar soluções práticas e evoluir constantemente na área 
 
 ---
 
-## Em andamento
+## Em Andamento
 
-- Infinity Gacha(Jogo na Unity inspirado no Manwha: "Pick Me Up Infinite Gacha")
+- Infinity Gacha(Jogo na Unity)
 - Minijogo Top Down Shooter em Java
 
 ## 📫 Contato
